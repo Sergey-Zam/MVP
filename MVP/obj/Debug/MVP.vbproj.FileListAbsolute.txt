@@ -1,0 +1,12 @@
+c:\users\сергей\documents\visual studio 2015\Projects\MVP\MVP\bin\Debug\MVP.exe.config
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\bin\Debug\MVP.exe
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\bin\Debug\MVP.pdb
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\bin\Debug\MVP.xml
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.vbprojResolveAssemblyReference.cache
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.vbproj.ResolveComReference.cache
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.Form1.resources
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.Resources.resources
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.vbproj.GenerateResource.Cache
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.exe
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.xml
+C:\Users\Сергей\documents\visual studio 2015\Projects\MVP\MVP\obj\Debug\MVP.pdb
